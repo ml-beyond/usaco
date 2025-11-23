@@ -1,4 +1,10 @@
-# Page
+---
+description: Jan 2025 Silver
+---
+
+# Farmer John's Favorite Operatio
+
+[https://usaco.org/index.php?page=viewproblem2\&cpid=1471 ](https://usaco.org/index.php?page=viewproblem2\&cpid=1471)
 
 Brute-Force: 2 out of 16, others timed out
 
@@ -263,6 +269,5 @@ public class prob2_silver_jan25 {
         public double nextDouble() { return Double.parseDouble(next()); }
     }
 }
-
 </code></pre>
 

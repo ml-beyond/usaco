@@ -2,4 +2,4 @@
 
 * [Silver](README.md)
   * [PreSum](silver/presum/README.md)
-    * [Page](silver/presum/page.md)
+    * [Farmer John's Favorite Operatio](silver/presum/farmer-johns-favorite-operatio.md)
