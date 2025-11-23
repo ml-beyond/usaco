@@ -2,7 +2,7 @@
 description: Jan 2025 Silver
 ---
 
-# Farmer John's Favorite Operatio
+# Farmer John's Favorite Operation
 
 [https://usaco.org/index.php?page=viewproblem2\&cpid=1471 ](https://usaco.org/index.php?page=viewproblem2\&cpid=1471)
 
