@@ -1,5 +1,5 @@
 ---
-description: Jan 2025 Silver
+description: USACO 2025 January Contest, Silver
 ---
 
 # Farmer John's Favorite Operation
